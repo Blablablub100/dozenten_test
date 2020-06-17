@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00f5cf32-84ac-4bff-b122-8462430a0aa2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="" />
+      <path value="$PROJECT_DIR$/typo3_src-10.4.4/typo3/sysext" />
+      <path value="$PROJECT_DIR$/typo3_src-10.4.4/typo3/sysext/adminpanel" />
+      <path value="$PROJECT_DIR$/typo3_src-10.4.4/typo3" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1cofuwcJpS7bbeaPSeLPnO7L0sX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TYPO3Settings" version="201.5.4" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00f5cf32-84ac-4bff-b122-8462430a0aa2" name="Default Changelist" comment="" />
+      <created>1591200092629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591200092629</updated>
+      <workItem from="1591200093803" duration="6287000" />
+      <workItem from="1591372712114" duration="979000" />
+      <workItem from="1591373941728" duration="9745000" />
+      <workItem from="1591702723220" duration="18000" />
+      <workItem from="1591730004634" duration="587000" />
+      <workItem from="1591778572770" duration="3476000" />
+      <workItem from="1591783277319" duration="2770000" />
+      <workItem from="1591959641310" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="88" key="#Deployment" timestamp="1591784733046">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="320" y="88" key="#Deployment/0.23.1440.799@0.23.1440.799" timestamp="1591784733046" />
+    <state x="169" y="-911" key="#SQL_Dialects" timestamp="1591373145529">
+      <screen x="-517" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="169" y="-911" key="#SQL_Dialects/0.23.1440.799/-517.-1417.2560.1417@-517.-1417.2560.1417" timestamp="1591373145529" />
+    <state x="304" y="75" key="#SSH_Configurations" timestamp="1591784544007">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="304" y="75" key="#SSH_Configurations/0.23.1440.799@0.23.1440.799" timestamp="1591784544007" />
+    <state x="363" y="-1082" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591373157844">
+      <screen x="-517" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="363" y="-1082" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.799/-517.-1417.2560.1417@-517.-1417.2560.1417" timestamp="1591373157844" />
+    <state x="244" y="317" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591781660210">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="-84" y="-911" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-517.-1440.2560.1440@-517.-1440.2560.1440" timestamp="1591204270245" />
+    <state x="244" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.799@0.23.1440.799" timestamp="1591781660210" />
+    <state x="-65" y="-997" key="#com.intellij.ide.util.MemberChooser" timestamp="1591376754209">
+      <screen x="-517" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="-65" y="-997" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-517.-1440.2560.1440@-517.-1440.2560.1440" timestamp="1591376754209" />
+    <state x="393" y="174" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591441756524">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="393" y="174" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.799@0.23.1440.799" timestamp="1591441756524" />
+    <state x="285" y="384" key="NewPhpFileDialog" timestamp="1591781675510">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="-11" y="-790" key="NewPhpFileDialog/0.0.1440.900/-517.-1440.2560.1440@-517.-1440.2560.1440" timestamp="1591201565091" />
+    <state x="285" y="384" key="NewPhpFileDialog/0.23.1440.799@0.23.1440.799" timestamp="1591781675510" />
+    <state x="107" y="100" width="900" height="722" key="SettingsEditor" timestamp="1591783252594">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="-326" y="-1081" width="1370" height="722" key="SettingsEditor/0.0.1440.900/-517.-1440.2560.1440@-517.-1440.2560.1440" timestamp="1591201671086" />
+    <state x="107" y="100" width="900" height="722" key="SettingsEditor/0.23.1440.799@0.23.1440.799" timestamp="1591783252594" />
+    <state x="85" y="122" width="1272" height="548" key="find.popup" timestamp="1591440840932">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="85" y="122" width="1272" height="548" key="find.popup/0.23.1440.799@0.23.1440.799" timestamp="1591440840932" />
+    <state x="611" y="160" key="ftp.server.browser" timestamp="1591784660093">
+      <screen x="0" y="23" width="1440" height="799" />
+    </state>
+    <state x="611" y="160" key="ftp.server.browser/0.23.1440.799@0.23.1440.799" timestamp="1591784660093" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="dozenten_test" type="b2602c69:ProjectViewProjectNode" />
+        <item name="dozenten_test" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>

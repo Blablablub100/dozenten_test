@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-11-27T17:38:32Z"
+		  dozent-name="dozenten_test">
+		<header/>
+		<body>
+			<trans-unit id="extension.title">
+				<source>Dozent Test Records</source>
+			</trans-unit>
+			<trans-unit id="tx_dozententest_domain_model_dozent">
+				<source>Dozent</source>
+			</trans-unit>
+			<trans-unit id="tx_dozententest_domain_model_dozent.ID">
+				<source>ID</source>
+			</trans-unit>
+			<trans-unit id="tx_dozententest_domain_model_dozent.Titel">
+				<source>Titel</source>
+			</trans-unit>
+			<trans-unit id="tx_dozententest_domain_model_dozent.Vorname">
+				<source>Vorname</source>
+			</trans-unit>
+			<trans-unit id="tx_dozententest_domain_model_dozent.Name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_dozententest_domain_model_dozent.Profil">
+				<source>Profil</source>
+			</trans-unit>
+			<trans-unit id="tx_dozententest_domain_model_dozent.Beruf">
+				<source>Beruf</source>
+			</trans-unit>
+			<trans-unit id="tx_dozententest_domain_model_dozent.Kennung">
+				<source>Kennung</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

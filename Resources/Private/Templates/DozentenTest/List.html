@@ -1,0 +1,35 @@
+<table border="1" cellspacing="1" cellpadding="5">
+	<f:debug>
+		{statement}
+	</f:debug>
+
+	<tr>
+		<td>id</td>
+		<td>titel</td>
+		<td>vorname</td>
+		<td>name</td>
+		<td>profil</td>
+		<td>beruf</td>
+		<td>kennung</td>
+	</tr>
+	<f:for each="{dozenten}" as="dozent">
+		<tr>
+			<td align="top">{dozent.id}</td>
+			<td align="top"><f:format.crop maxCharacters="100">{dozent.titel}</f:format.crop></td>
+			<td align="top">{dozent.vorname}</td>
+			<td align="top">{dozent.name}</td>
+			<td align="top">{dozent.profil}</td>
+			<td align="top">{dozent.beruf}</td>
+			<td align="top">{dozent.kennung}</td>
+		</tr>
+	</f:for>
+
+	<div id="dozenten_container">
+		<f:for each="{dozenten}" as="dozent">
+			<div id="dozent_container">
+				<span>{dozent.titel} {dozent.vorname}<br>{dozent.name}<br>{dozent.beruf}</span>
+				<img src="">
+			</div>
+		</f:for>
+	</div>
+</table>

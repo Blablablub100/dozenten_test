@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a7530397-511f-495c-a0b6-2fb42e3bc14b" name="Mittwald_ayurveda" url="http://p507412.webspaceconfig.de">
+        <fileTransfer rootFolder="/typo3conf/ext/dozenten_test" host="p507412.webspaceconfig.de" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
